@@ -1,0 +1,34 @@
+unit Unit1;
+
+{$WARN SYMBOL_PLATFORM OFF}
+
+interface
+
+uses
+  Windows, ActiveX, Classes, ComObj, COMOBJECT1_TLB, StdVcl;
+
+type
+  TCOMCLASS = class(TTypedComObject, ICOMCLASS)
+  protected
+    function RASHET1(x, y, z: Single): HResult; stdcall;
+    function RASHET2(x, y, z: Single): HResult; stdcall;
+  end;
+
+implementation
+
+uses ComServ;
+
+function TCOMCLASS.RASHET1(x, y, z: Single): HResult;
+begin
+
+end;
+
+function TCOMCLASS.RASHET2(x, y, z: Single): HResult;
+begin
+
+end;
+
+initialization
+  TTypedComObjectFactory.Create(ComServer, TCOMCLASS, Class_COMCLASS,
+    ciMultiInstance, tmApartment);
+end.

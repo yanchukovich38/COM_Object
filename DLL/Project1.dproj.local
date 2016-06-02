@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.565,C:\Users\artem\Documents\Embarcadero\Studio\Projects\Project1.ridl=C:\Users\artem\Desktop\DLL\Project1.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Project1.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,C:\Users\artem\Documents\Embarcadero\Studio\Projects\COMOBJECT1_TLB.pas=C:\Users\artem\Desktop\DLL\COMOBJECT1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,C:\Users\artem\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\artem\Desktop\DLL\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\artem\Desktop\DLL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,C:\Users\artem\Documents\Embarcadero\Studio\Projects\Project1_TLB.pas=C:\Users\artem\Documents\Embarcadero\Studio\Projects\COMOBJECT1_TLB.pas</Transaction>
+  </Transactions>
+</BorlandProject>
